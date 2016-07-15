@@ -10,3 +10,8 @@
  * This results in the runtime O(n*log(n)) as opposed to O(n^2) 
  * of the traditional long multiplication technique.
  */
+
+NOTE: 
+The actual java code files for this project can be found inside the "src" folder.
+This program was written using the Eclipse IDE. 
+Eclipse auto-generates XML metadata and a folder structure for the project.
