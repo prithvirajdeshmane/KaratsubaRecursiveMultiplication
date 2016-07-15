@@ -13,5 +13,7 @@
 
 NOTE: 
 The actual java code files for this project can be found inside the "src" folder.
+
 This program was written using the Eclipse IDE. 
+
 Eclipse auto-generates XML metadata and a folder structure for the project.
